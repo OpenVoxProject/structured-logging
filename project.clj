@@ -8,7 +8,6 @@
                  [org.clojure/tools.logging "0.3.1"]
                  [cheshire "5.6.3"]
                  [org.slf4j/slf4j-api "1.7.21"]]
-  :plugins [[lein-release "1.0.5"]]
   :deploy-repositories [["releases" {:url "https://clojars.org/repo"
                                      :username :env/CLOJARS_USERNAME
                                      :password :env/CLOJARS_PASSWORD
