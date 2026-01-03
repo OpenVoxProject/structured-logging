@@ -1,9 +1,9 @@
-(defproject org.openvoxproject/structured-logging "0.2.2-SNAPSHOT"
+(defproject org.openvoxproject/structured-logging "1.0.0-SNAPSHOT"
   :description "Write data structures to your logs from clojure."
   :url "https://github.com/openvoxproject/structured-logging"
   :license {:name "Apache License, Version 2.0"
             :url "http://www.apache.org/licenses/LICENSE-2.0.html"}
-  :dependencies [[org.clojure/clojure "1.8.0"]
+  :dependencies [[org.clojure/clojure "1.11.2"]
                  [net.logstash.logback/logstash-logback-encoder "4.6"]
                  [org.clojure/tools.logging "0.3.1"]
                  [cheshire "5.6.3"]
