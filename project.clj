@@ -7,7 +7,7 @@
                  [net.logstash.logback/logstash-logback-encoder "4.6"]
                  [org.clojure/tools.logging "0.3.1"]
                  [cheshire "5.6.3"]
-                 [org.slf4j/slf4j-api "1.7.21"]]
+                 [org.slf4j/slf4j-api "1.7.36"]]
   :deploy-repositories [["releases" {:url "https://clojars.org/repo"
                                      :username :env/CLOJARS_USERNAME
                                      :password :env/CLOJARS_PASSWORD
