@@ -6,7 +6,7 @@
   :dependencies [[org.clojure/clojure "1.11.2"]
                  [net.logstash.logback/logstash-logback-encoder "4.6"]
                  [org.clojure/tools.logging "0.3.1"]
-                 [cheshire "5.6.3"]
+                 [cheshire "5.13.0"]
                  [org.slf4j/slf4j-api "1.7.36"]]
   :deploy-repositories [["releases" {:url "https://clojars.org/repo"
                                      :username :env/CLOJARS_USERNAME
