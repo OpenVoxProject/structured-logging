@@ -3,7 +3,7 @@
   :url "https://github.com/openvoxproject/structured-logging"
   :license {:name "Apache License, Version 2.0"
             :url "http://www.apache.org/licenses/LICENSE-2.0.html"}
-  :dependencies [[org.clojure/clojure "1.11.2"]
+  :dependencies [[org.clojure/clojure "1.12.4"]
                  [net.logstash.logback/logstash-logback-encoder "4.6"]
                  [org.clojure/tools.logging "0.6.0"]
                  [cheshire "5.13.0"]
