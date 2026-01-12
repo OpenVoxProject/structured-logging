@@ -1,4 +1,4 @@
-(defproject org.openvoxproject/structured-logging "1.0.1-SNAPSHOT"
+(defproject org.openvoxproject/structured-logging "1.0.1"
   :description "Write data structures to your logs from clojure."
   :url "https://github.com/openvoxproject/structured-logging"
   :license {:name "Apache License, Version 2.0"
