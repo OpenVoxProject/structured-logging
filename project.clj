@@ -5,7 +5,7 @@
             :url "http://www.apache.org/licenses/LICENSE-2.0.html"}
   :dependencies [[org.clojure/clojure "1.12.6"]
                  [net.logstash.logback/logstash-logback-encoder "4.11"]
-                 [org.clojure/tools.logging "0.6.0"]
+                 [org.clojure/tools.logging "1.3.1"]
                  [cheshire "6.2.0"]
                  [org.slf4j/slf4j-api "2.0.19"]]
   :deploy-repositories [["releases" {:url "https://clojars.org/repo"
